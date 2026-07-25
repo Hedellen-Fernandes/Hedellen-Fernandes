@@ -14,9 +14,9 @@ Today I build **agentic systems in production**, not demos. And I believe the ne
 
 I design and ship agentic systems that change how fast teams can build:
 
-- **AI-driven code pipelines** — Turning designs into production frontend code using MCP tool surfaces and AI agents, collapsing the handoff between design and engineering.
-- **Product-memory agents** — Giving AI tools the context of a senior developer who knows the codebase, its patterns, and its history, so generated code fits instead of fighting.
-- **Automated incident remediation** — Systems that watch, diagnose, and fix production issues before anyone gets paged.
+- **AI-driven code pipelines**: Turning designs into production frontend code using MCP tool surfaces and AI agents, collapsing the handoff between design and engineering.
+- **Product-memory agents**: Giving AI tools the context of a senior developer who knows the codebase, its patterns, and its history, so generated code fits instead of fighting.
+- **Automated incident remediation**: Systems that watch, diagnose, and fix production issues before anyone gets paged.
 
 I care about one thing above all: shipping fast without shipping recklessly.
 
@@ -43,14 +43,6 @@ I care about one thing above all: shipping fast without shipping recklessly.
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Hedellen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hedellen-Fernandes&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedellen-Fernandes&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
